@@ -46,6 +46,6 @@ To run this project locally on your machine, follow these steps:
 If you have any suggestions, improvements, or feature requests, feel free to open an issue or create a pull request. Your contributions are highly appreciated!
 
 ### Learning Source
-This project was created as part of the learning process in the "JavaScript Programming with Irfan" course. You can find more projects and resources related to JavaScript programming on [Irfan's GitHub page](https://github.com/irfan/javascript-programming). 
+This project was created as part of the learning process in the "JavaScript Programming with Irfan" course. You can find more projects and resources related to JavaScript programming on [Irfan's GitHub page](https://github.com/irfanghapar/Javascript-Programming-With-Irfan). 
 
 Enjoy playing Guess My Number! 🎮🔢
